@@ -15,8 +15,8 @@ This Tools Don't Work most Time but try it multiple times and it will work and p
 ```bash
 sudo apt update && sudo apt install python3 python3-pip git
 pip3 install colorama requests 
-https://github.com/CRYPTOLORD25/Updated-ban
-cd Updated-ban
+https://github.com/nappier1/BAN-WhatsApp
+cd BAN-WhatsApp
 python3 ban.py
 ```
 
